@@ -1,0 +1,23 @@
+
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "content"
+    label: "网站内容管理"
+    files:
+      - file: "index.html"
+        label: "首页内容"
+        name: "homepage"
+        fields:
+          - { label: "网站标题（英文）", name: "title_en", widget: "string" }
+          - { label: "网站标题（中文）", name: "title_zh", widget: "string" }
+          - { label: "金价说明文字", name: "price_note", widget: "text" }
+          - { label: "微信号", name: "wechat", widget: "string" }
+          - { label: "WhatsApp", name: "whatsapp", widget: "string" }
+          - { label: "SEO标题", name: "seo_title", widget: "string" }
+          - { label: "SEO描述", name: "seo_description", widget: "text" }

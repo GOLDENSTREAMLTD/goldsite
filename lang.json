@@ -1,0 +1,26 @@
+{
+  "en": {
+    "title": "GOLDENSTREAM",
+    "price_title": "Live Gold Price (USD/kg)",
+    "conversion": "Convert to Other Currency",
+    "contact_us": "Contact Us",
+    "name_placeholder": "Your Name",
+    "email_placeholder": "Your Email",
+    "message_placeholder": "Your Message",
+    "submit": "Send",
+    "wechat_contact": "WeChat Contact",
+    "whatsapp_contact": "Click to contact via WhatsApp"
+  },
+  "zh": {
+    "title": "金流国际",
+    "price_title": "实时黄金价格（美元/公斤）",
+    "conversion": "换算其他货币",
+    "contact_us": "联系我们",
+    "name_placeholder": "您的名字",
+    "email_placeholder": "您的邮箱",
+    "message_placeholder": "留言内容",
+    "submit": "发送",
+    "wechat_contact": "微信联系：",
+    "whatsapp_contact": "点击联系 WhatsApp"
+  }
+}
